@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(rgba(62, 20, 20, 0.55), rgba(62, 20, 20, 0.55)), url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.table{
+    box-shadow: 0 0 10px rgb(230, 142, 43);
+
+}
